@@ -1,2 +1,2 @@
 # CPPT_Tarnavskyi_KI-304
-CPPT
+Лабораторні роботи КЗП
